@@ -1,3 +1,6 @@
 [submodule "depot-test"]
 	path = depot-test
 	url = https://github.com/Marsh-Mallo/lib-date.git
+[submodule "lib-date"]
+	path = lib-date
+	url = https://github.com/Marsh-Mallo/lib-date.git
