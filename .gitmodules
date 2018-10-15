@@ -1,0 +1,3 @@
+[submodule "depot-test"]
+	path = depot-test
+	url = https://github.com/Marsh-Mallo/lib-date.git
